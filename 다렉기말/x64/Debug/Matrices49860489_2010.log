@@ -1,0 +1,9 @@
+﻿  Matrices49860489.cpp
+Matrices49860489.cpp(328): warning C4244: 'return': 'WPARAM'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Matrices49860489.cpp(264): warning C4100: 'lpCmdLine': 참조되지 않은 정식 매개 변수입니다.
+Matrices49860489.cpp(263): warning C4100: 'hPrevInstance': 참조되지 않은 정식 매개 변수입니다.
+Matrices49860489.cpp(453): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Matrices49860489.cpp(487): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Matrices49860489.cpp(519): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Matrices49860489_2010.vcxproj -> C:\Users\user\Desktop\DirectXSamples\아가리벌려 쿠키들어간다\x64\Debug\Matrices49860489.exe
+  Matrices49860489_2010.vcxproj -> C:\Users\user\Desktop\DirectXSamples\아가리벌려 쿠키들어간다\x64\Debug\Matrices49860489.pdb (Full PDB)

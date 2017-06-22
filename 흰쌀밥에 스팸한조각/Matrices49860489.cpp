@@ -5,6 +5,9 @@
 #include <d3dx9.h>
 #include <iostream>
 
+// 사운드
+#include <memory>  
+#include <MMSystem.h>
 #include <dsound.h>
 
 // define the screen resolution and keyboard macros
@@ -21,6 +24,10 @@
 // include the Direct3D Library file
 #pragma comment (lib, "d3d9.lib")
 #pragma comment (lib, "d3dx9.lib")
+
+// 사운드
+#pragma comment(lib, "Winmm.lib")
+#pragma comment(lib, "dsound.lib")
 
 // global declarations
 LPDIRECT3D9 d3d;    // the pointer to our Direct3D interface

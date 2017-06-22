@@ -5,5 +5,5 @@ Matrices49860489.cpp(271): warning C4100: 'hPrevInstance': 참조되지 않은 �
 Matrices49860489.cpp(474): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
 Matrices49860489.cpp(505): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
 Matrices49860489.cpp(517): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  Matrices49860489_2010.vcxproj -> C:\Users\user\Desktop\겜그기말\연습2\x64\Debug\Matrices49860489.exe
-  Matrices49860489_2010.vcxproj -> C:\Users\user\Desktop\겜그기말\연습2\x64\Debug\Matrices49860489.pdb (Full PDB)
+  Matrices49860489_2010.vcxproj -> C:\Users\user\Desktop\BS_Nature\흰쌀밥에 스팸한조각\x64\Debug\Matrices49860489.exe
+  Matrices49860489_2010.vcxproj -> C:\Users\user\Desktop\BS_Nature\흰쌀밥에 스팸한조각\x64\Debug\Matrices49860489.pdb (Full PDB)

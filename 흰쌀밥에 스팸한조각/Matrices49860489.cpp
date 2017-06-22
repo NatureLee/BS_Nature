@@ -5,6 +5,8 @@
 #include <d3dx9.h>
 #include <iostream>
 
+#include <dsound.h>
+
 // define the screen resolution and keyboard macros
 #define SCREEN_WIDTH  640
 #define SCREEN_HEIGHT 480
@@ -465,7 +467,7 @@ void initD3D(HWND hWnd)
 void init_game(void)
 {
 	//객체 초기화 
-	hero.init(150, 350);   
+	hero.init(150, 250);   
 
 	//적들 초기화 
 	for (int i = 0; i<ENEMY_NUM; i++)
@@ -512,7 +514,7 @@ void do_game_logic(void)
 	//적들 처리 
 	for (int i = 0; i<ENEMY_NUM; i++)
 	{
-		if (enemy[i].y_pos > 400) {  // 적들 위치
+		if (enemy[i].y_pos > 350) {  // 적들 위치
 			enemy[i].change = false;
 			enemy[i].init((float)(rand() % 300), rand() % 200 - 300);
 		}
